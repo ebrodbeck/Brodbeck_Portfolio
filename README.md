@@ -9,3 +9,6 @@ Data Projects by Erich Brodbeck
 
 # Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season
 - Using an free access NBA stats database to predict total score probability distributions.
+
+# Project 4: Fan Sentiment Analysis of the Las Vegas Raiders Following the 2022 Benching of Derek Carr for Jarrett Stidham
+- Following a disapointing week 15 loss to the Steelers, the Raiders decided to bench 9-year veteran QB and topic of controversy, Derek Carr. In week 16, the Raiders started backup QB Jarrett Stidham against the eventual NFC Championship runner-up 49ers. Despite a narrow 37-34 overtime loss, Stidham posted an impressive stat line and the future of the Raiders QB position became an interesting conversation. A fan sentiment poll posted to Reddit's r/Raiders forum yielded an interesting dataset, allowing for correlations between future outlook at the QB position and prior sentiments regarding Derek Carr.
