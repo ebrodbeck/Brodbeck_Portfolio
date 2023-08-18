@@ -5,11 +5,14 @@ Data Projects by Erich Brodbeck
 - An analysis of laws later deemed to be unconstitutional as a function of the state and era in which the law was written.
 ![](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Total%20Unconstitutional%20Laws%20by%20State.JPG)
 
+
 Total unconstitutional laws written by each state, with and without the federal government.
 ![](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Unconstitutional%20Laws%20per%20Decade%20by%20State.JPG)
 
+
 Unconstitutional laws per decade by each state.
 ![](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Unconstitutional%20Laws%20by%20State%20and%20Time.jpg)
+
 
 Visualization of unconstitutional laws by state, over time.
 
@@ -23,10 +26,13 @@ Visualization of unconstitutional laws by state, over time.
 - Following a disapointing week 15 loss to the Steelers, the Raiders decided to bench 9-year veteran QB and topic of controversy, Derek Carr. In week 16, the Raiders started backup QB Jarrett Stidham against the eventual NFC Championship runner-up 49ers. Despite a narrow 37-34 overtime loss, Stidham posted an impressive stat line and the future of the Raiders QB position became an interesting conversation. A fan sentiment poll posted to Reddit's r/Raiders forum yielded an interesting dataset, allowing for correlations between future outlook at the QB position and prior sentiments regarding Derek Carr.
 ![](https://github.com/ebrodbeck/Raiders_Fan_Sentiment/blob/main/General%20Opinion%20on%20Who%20Should%20Finish%20This%20Season.png)
 
+
 Fan sentiment immediately after Derek Carr was benched.
 ![](https://github.com/ebrodbeck/Raiders_Fan_Sentiment/blob/main/General%20Opinion%20on%20Who%20Should%20Finish%20This%20Season%20After%20Playing%20the%2049ers.png)
 
+
 Fan sentiment after Jarrett Stidham nearly defeats the 49ers.
 ![](https://github.com/ebrodbeck/Raiders_Fan_Sentiment/blob/main/General%20Preferred%20QB1%20Next%20Season.png)
+
 
 Fan responses for desired starting QB in the next season. (Colored by the team they currently play for)
