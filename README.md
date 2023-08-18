@@ -12,7 +12,12 @@ Data Projects by Erich Brodbeck
 ![](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Unconstitutional%20Laws%20by%20State%20and%20Time.jpg)
 # [Project 2: Survivor's Evolution: Mapping Viewer Sentiment Across 40 Seasons](https://github.com/ebrodbeck/Survivor_Ratings)
 - Joining rating data for CBS's Survivor's seasons 1-40 from IMDB, Rotten Tomatoes, and Reddit's r/survivor forum. Analyzing trends in the show format, the season's winner, and other interesting classifiers.
-
+### Survivor Seasons Ranked by Average Reddit Score
+![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/season%20rankings.jpg)
+### Season Score Differences between Reddit vs IMDB, Reddit vs Rotten Tomatoes
+![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Difference%20in%20rating%20from%20various%20sources.jpg)
+### Distributions of Survivor Season Reddit Scores by Season and Era
+![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Distributions%20of%20ratings%20by%20season.jpg)
 # Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season
 - Using an free access NBA stats database to predict total score probability distributions.
 
