@@ -18,9 +18,12 @@ Visualization of unconstitutional laws by state, over time:
 
 # [Project 4: Fan Sentiment Analysis of the Las Vegas Raiders Following the 2022 Benching of Derek Carr for Jarrett Stidham](https://github.com/ebrodbeck/Raiders_Fan_Sentiment)
 - Following a disapointing week 15 loss to the Steelers, the Raiders decided to bench 9-year veteran QB and topic of controversy, Derek Carr. In week 16, the Raiders started backup QB Jarrett Stidham against the eventual NFC Championship runner-up 49ers. Despite a narrow 37-34 overtime loss, Stidham posted an impressive stat line and the future of the Raiders QB position became an interesting conversation. A fan sentiment poll posted to Reddit's r/Raiders forum yielded an interesting dataset, allowing for correlations between future outlook at the QB position and prior sentiments regarding Derek Carr.
+
 Fan sentiment immediately after Derek Carr was benched:
 ![](https://github.com/ebrodbeck/Raiders_Fan_Sentiment/blob/main/General%20Opinion%20on%20Who%20Should%20Finish%20This%20Season.png)
+
 Fan sentiment after Jarrett Stidham nearly defeats the 49ers:
 ![](https://github.com/ebrodbeck/Raiders_Fan_Sentiment/blob/main/General%20Opinion%20on%20Who%20Should%20Finish%20This%20Season%20After%20Playing%20the%2049ers.png)
+
 Fan responses for desired starting QB in the next season. (Colored by the team they currently play for):
 ![](https://github.com/ebrodbeck/Raiders_Fan_Sentiment/blob/main/General%20Preferred%20QB1%20Next%20Season.png)
