@@ -3,6 +3,7 @@ Data Projects by Erich Brodbeck
 
 # [Project 1: Analysis of Unconstitutional Laws in the United States](https://github.com/ebrodbeck/Unconstitutional_Laws)
 - An analysis of laws later deemed to be unconstitutional as a function of the state and era in which the law was written.
+
 Total unconstitutional laws written by each state, with and without the federal government:
 ![](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Total%20Unconstitutional%20Laws%20by%20State.JPG)
 Unconstitutional laws per decade by each state.:
