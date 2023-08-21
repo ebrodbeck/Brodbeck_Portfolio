@@ -18,7 +18,7 @@ Data Projects by Erich Brodbeck
 ![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Difference%20in%20rating%20from%20various%20sources.jpg)
 ### Distributions of Survivor Season Reddit Scores by Season and Era
 ![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Distributions%20of%20ratings%20by%20season.jpg)
-# Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season (In progress)
+# [Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season (In progress)](https://github.com/ebrodbeck/NBA_Points_Model)
 - Using an free access NBA stats database to predict total score probability distributions.
 ### Correlation Heatmap for Available Features
 ![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Correlation%20Heatmap.png)
