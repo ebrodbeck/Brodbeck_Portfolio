@@ -20,6 +20,14 @@ Data Projects by Erich Brodbeck
 ![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Distributions%20of%20ratings%20by%20season.jpg)
 # Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season
 - Using an free access NBA stats database to predict total score probability distributions.
+### Correlation Heatmap for Available Features
+![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Correlation%20Heatmap.png)
+### Ranked Correlations of Features with "Points Scored"
+![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Correlation%20with%20Points%20-%20All%20NBA%20Data.png)
+### Top Features Correlated with "Points Scored"
+![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Significant%20Features%20to%20Points%20Scored.png)
+### Distributions of Points Scored by Each Team - 1000 Simulations
+![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Arbitrary%20Game%20-%20Team%20Points%20Distribution.png)
 
 # [Project 4: Fan Sentiment Analysis of the Las Vegas Raiders Following the 2022 Benching of Derek Carr for Jarrett Stidham](https://github.com/ebrodbeck/Raiders_Fan_Sentiment)
 - Following a disapointing week 15 loss to the Steelers, the Raiders decided to bench 9-year veteran QB and topic of controversy, Derek Carr. In week 16, the Raiders started backup QB Jarrett Stidham against the eventual NFC Championship runner-up 49ers. Despite a narrow 37-34 overtime loss, Stidham posted an impressive stat line and the future of the Raiders QB position became an interesting conversation. A fan sentiment poll posted to Reddit's r/Raiders forum yielded an interesting dataset, allowing for correlations between future outlook at the QB position and prior sentiments regarding Derek Carr.
