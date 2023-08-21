@@ -18,7 +18,7 @@ Data Projects by Erich Brodbeck
 ![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Difference%20in%20rating%20from%20various%20sources.jpg)
 ### Distributions of Survivor Season Reddit Scores by Season and Era
 ![](https://github.com/ebrodbeck/Survivor_Ratings/blob/main/Distributions%20of%20ratings%20by%20season.jpg)
-# Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season
+# Project 3: Forecasting NBA Game Outcomes: Analyzing the 2020 Season (In progress)
 - Using an free access NBA stats database to predict total score probability distributions.
 ### Correlation Heatmap for Available Features
 ![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Correlation%20Heatmap.png)
@@ -26,7 +26,7 @@ Data Projects by Erich Brodbeck
 ![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Correlation%20with%20Points%20-%20All%20NBA%20Data.png)
 ### Top Features Correlated with "Points Scored"
 ![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Significant%20Features%20to%20Points%20Scored.png)
-### Distributions of Points Scored by Each Team - 1000 Simulations
+### Distributions of Points Scored by Each Team - 1000 Simulations, Kings vs Heat
 ![](https://github.com/ebrodbeck/NBA_Points_Model/blob/main/Arbitrary%20Game%20-%20Team%20Points%20Distribution.png)
 
 # [Project 4: Fan Sentiment Analysis of the Las Vegas Raiders Following the 2022 Benching of Derek Carr for Jarrett Stidham](https://github.com/ebrodbeck/Raiders_Fan_Sentiment)
